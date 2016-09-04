@@ -4,5 +4,7 @@
     echo '';
     echo 'Addon: ' . '#4';
     echo '-----';
+    
+    // let's start to develop addon 4
 
 ?>
