@@ -11,6 +11,5 @@
     
     // new function #1
     //// new function #2	- skiped
-    // new function #3
     
 ?>
