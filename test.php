@@ -8,4 +8,7 @@
     echo 'test completed...';
     
     // continue to develope main functions
+    
+    // new function #1
+    
 ?>
