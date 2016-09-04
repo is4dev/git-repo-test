@@ -1,5 +1,5 @@
 <?php
-    echo 'Test processing...';
+    echo 'Test2 processing...';
     echo 'Another test';
-    echo 'Test completed!';
+    echo 'Test2 completed!';
 ?>
