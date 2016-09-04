@@ -11,5 +11,6 @@
     
     // new function #1
     // new function #2	- rebuild function
+    // new function #3
     
 ?>
