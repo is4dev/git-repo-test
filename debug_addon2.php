@@ -2,7 +2,7 @@
 
     echo 'Debug git-rep-test';
     echo '';
-    echo 'Addon: ' . '#1';
+    echo 'Addon: ' . '#2';
     echo '-----';
 
 ?>
