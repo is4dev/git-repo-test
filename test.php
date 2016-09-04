@@ -5,5 +5,5 @@
         echo 'GET[\'test\'] = ' . $_GET['test'];
     }
     
-    echo 'test2';
+    echo 'test completed...';
 ?>
